@@ -1,0 +1,176 @@
+Uri: https://cdn-icons-png.flaticon.com/512/1161/1161388.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\512\1161\1161388.png
+Content Type: image/png
+
+Uri: https://cdn-icons-png.flaticon.com/512/4341/4341025.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\512\4341\4341025.png
+Content Type: image/png
+
+Uri: https://cdn-icons-png.flaticon.com/512/7440/7440624.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\512\7440\7440624.png
+Content Type: image/png
+
+Uri: https://cdn-icons-png.flaticon.com/512/9419/9419418.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\512\9419\9419418.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\mineary.com.tr\npm\bootstrap-icons@1.10.3\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47
+File Name: C:\Downloaded Web Sites\mineary.com.tr\npm\bootstrap-icons@1.10.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47
+File Name: C:\Downloaded Web Sites\mineary.com.tr\npm\bootstrap-icons@1.10.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;800;900&display=swap
+File Name: C:\Downloaded Web Sites\mineary.com.tr\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+File Name: C:\Downloaded Web Sites\mineary.com.tr\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf
+File Name: C:\Downloaded Web Sites\mineary.com.tr\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5ntA.ttf
+File Name: C:\Downloaded Web Sites\mineary.com.tr\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5ntA.ttf
+File Name: C:\Downloaded Web Sites\mineary.com.tr\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://mineary.com.tr/
+File Name: C:\Downloaded Web Sites\mineary.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://mineary.com.tr/assets/img/avatar-1.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\avatar-1.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/avatar-2.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\avatar-2.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/avatar-3.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\avatar-3.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/avatar-4.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\avatar-4.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/avatar-5.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\avatar-5.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/avatar-6.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\avatar-6.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/devs.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\devs.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/emre.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\emre.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/palworldtr.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\palworldtr.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/shield.svg
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\shield.svg
+Content Type: image/svg+xml
+
+Uri: https://mineary.com.tr/assets/img/skyare.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\skyare.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/assets/img/topgg.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\assets\img\topgg.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://mineary.com.tr/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://mineary.com.tr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://mineary.com.tr/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\mineary.com.tr\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://mineary.com.tr/komutlar
+File Name: C:\Downloaded Web Sites\mineary.com.tr\komutlar.html
+Content Type: text/html
+
+Uri: https://mineary.com.tr/privacy
+File Name: C:\Downloaded Web Sites\mineary.com.tr\privacy.html
+Content Type: text/html
+
+Uri: https://mineary.com.tr/style.css
+File Name: C:\Downloaded Web Sites\mineary.com.tr\style.css
+Content Type: text/css
+
+Uri: https://mineary.com.tr/terms
+File Name: C:\Downloaded Web Sites\mineary.com.tr\terms.html
+Content Type: text/html
+
+Uri: https://unpkg.com/flowbite@1.5.3/dist/flowbite.js
+File Name: C:\Downloaded Web Sites\mineary.com.tr\flowbite@1.5.3\dist\flowbite.js
+Content Type: application/javascript
+
